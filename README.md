@@ -55,4 +55,5 @@ With this machine I accessed the Pfsense web configurator to edit the interfaces
 
 7. Going over to splunk there is a log event that there was a logon attempt using explicit credentials and explains the action the was taken and also the path that was targeted. 
 
-![Screenshot (163)](https://user-images.githubusercontent.com/56138615/233697689-25986c53-3b1f-4f53-81fb-cfa585143a55.png)
+![Screenshot (162)](https://user-images.githubusercontent.com/56138615/233698218-228bb0b8-eaec-439e-a11a-0993a97b3ac8.png)
+
